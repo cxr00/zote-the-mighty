@@ -1,0 +1,499 @@
+#goodmemeplease
+log: Meme
+kind: multi
+loc: meme
+category: meme
+reaction: dunq
+alias: badmemeplease
+
+#meme
+log: Meme
+kind: multi
+loc: meme
+category: meme
+reaction: primalaspid
+alias: meme_
+alias: whilst_
+alias: hwhilst
+alias: whilst
+alias: <:hollowomg:337314365323870209>
+alias: <:hollowlenny:337314901670232064>
+alias: <:corny:309365508682285057>
+alias: <:hollowface:430225423461253123>
+alias: <:hollowwow:343784030828888065>
+alias: <:intenseface:331674362509787136>
+alias: <:hollowwoke:344348211433177088>
+alias: )
+
+#vessellove
+kind: multi
+loc: vessellove
+category: meme
+reaction: heart
+reaction: zote
+
+#mothlove
+kind: multi
+loc: mothlove
+category: meme
+reaction: heart
+reaction: zote
+
+#git
+kind: multi
+loc: gitgud
+category: meme
+reaction: zote
+alias: gitmoregud
+
+#fuckmeupfam
+kind: multi
+loc: meme
+category: meme
+reaction: grimm
+reaction: primalaspid
+reaction: zote
+alias: gagglemeupgritten
+
+#beelove
+kind: multi
+loc: beelove
+category: meme
+reaction: bee
+reaction: heart
+reaction: zote
+
+#comic
+kind: multi
+loc: psych
+category: meme
+reaction: zote
+alias: psych
+
+#grublove
+kind: multi
+loc: grublove
+category: meme
+reaction: happygrub
+reaction: heart
+reaction: zote
+alias: <:happygrub:291831002874249216>
+
+#grubhate
+kind: multi
+loc: grubhate
+category: meme
+reaction: happygrub
+reaction: primalaspid
+reaction: zote
+alias: <:sadgrub:316743976474509314>
+
+#lore
+kind: single
+loc: reaction
+img: lore.jpg
+category: meme
+reaction: zote
+reaction: heart
+reaction: teamcherry
+alias: wilbopls
+
+#paleking
+kind: multi
+loc: paleking
+category: meme
+reaction: zote
+alias: realpaleking
+
+#maggothate
+kind: multi
+loc: maggothate
+category: meme
+reaction: maggot
+reaction: primalaspid
+reaction: zote
+alias: maggoth8
+alias: <:maggot:313428664576376832>
+
+#maggotlove
+kind: multi
+loc: maggotlove
+category: meme
+reaction: maggot
+reaction: heart
+reaction: zote
+
+#mistake
+kind: multi
+loc: mistake
+category: meme
+reaction: zote
+alias: mistae
+alias: mistaek
+alias: mistkae
+alias: mistke
+alias: mistak
+
+#absolutelymobadis
+kind: single
+loc: reaction
+img: absolutelymobadis.jpg
+category: meme
+reaction: corny
+alias: mobadis
+alias: bapanada
+
+#aspid
+kind: single
+loc: reaction
+img: trollaspid.png
+category: meme
+reaction: primalaspid
+alias: trollaspid
+alias: <:primalaspid:297708185899499522>
+
+#bapanada420
+kind: single
+loc: reaction
+img: 420.jpg
+category: meme
+reaction: corny
+alias: 420
+
+#ban
+kind: single
+loc: reaction
+img: banhammer.png
+category: devplus
+reaction: teamcherry
+reaction: primalaspid
+alias: nou
+alias: b4n
+alias: banhammer
+alias: bourgeoisie
+
+#celebrate
+kind: single
+loc: reaction
+img: dancing.gif
+category: meme
+reaction: zote
+alias: dance
+
+#dashmaster
+kind: single
+loc: reaction
+img: dashmaster.jpg
+category: meme
+reaction: zote
+alias: drake
+
+#datvoid
+kind: single
+loc: reaction
+img: datvoid.jpg
+category: meme
+reaction: zote
+alias: oshit
+
+#disapprove
+kind: single
+loc: reaction
+img: disapprove.png
+category: meme
+reaction: zote
+alias: emilitia
+
+#elderbug
+kind: single
+loc: reaction
+img: elderbug_die.png
+category: meme
+reaction: zote
+alias: guessilldie
+alias: <:elderbug:337323354589757451>
+
+#frug
+kind: single
+loc: reaction
+img: frug.jpg
+category: meme
+reaction: happygrub
+
+#flukemilf
+kind: single
+loc: reaction
+img: flukemilf.gif
+category: meme
+reaction: zote
+alias: cursedimage
+
+#gorb
+kind: single
+loc: reaction
+img: shinygorb.jpg
+category: meme
+reaction: zote
+alias: ascend
+alias: ascendbro
+alias: shinygorb
+
+#graig
+kind: single
+loc: reaction
+img: graig.png
+category: discussion
+reaction: zote
+reaction: heart
+reaction: teamcherry
+alias: graigpls
+
+#grimm
+kind: single
+loc: reaction
+img: grimm.gif
+category: meme
+reaction: zote
+reaction: happygrub
+reaction: grimm
+
+#grubfather
+kind: single
+loc: reaction
+img: grubfather.jpg
+category: meme
+reaction: happygrub
+alias: onthisthedaymydaughteristobemarried
+alias: <:grubfather:341180809228845056>
+
+#hallonite
+kind: single
+loc: reaction
+img: holonit_poteiga.png
+category: meme
+reaction: noot
+alias: holonit
+alias: holo
+alias: holonite
+alias: halonite
+alias: halonit
+
+#hollowdoot
+kind: single
+loc: reaction
+img: hollowdoot.jpg
+category: meme
+reaction: zote
+alias: doot
+alias: dootdoot
+
+#coldone
+kind: single
+loc: reaction
+img: hornet_bottle_opener.jpg
+category: meme
+reaction: zote
+
+#hornet
+kind: single
+loc: reaction
+img: Hornetspin.gif
+category: meme
+reaction: zote
+alias: spin
+
+#hklogic
+kind: single
+loc: reaction
+img: stabyourselffirst.jpg
+category: meme
+reaction: zote
+alias: <:hollowknice:300572689616076801>
+
+#loremaster
+kind: single
+loc: reaction
+img: lore_master_never_lies.jpg
+category: meme
+reaction: zote
+
+#meirl
+kind: single
+loc: reaction
+img: meirl.png
+category: meme
+reaction: zote
+alias: me
+alias: me_irl
+alias: dead
+
+#mrmushroom
+kind: single
+loc: reaction
+img: scuse_me.png
+category: meme
+reaction: zote
+alias: mushroom
+alias: shroom
+alias: excuseme
+alias: mushroomman
+
+#nootdoot
+kind: single
+loc: reaction
+img: nootdoot.png
+category: meme
+reaction: noot
+alias: noot
+alias: dootnoot
+
+#pervertedlight
+kind: single
+loc: reaction
+img: perverted_light.gif
+category: meme
+reaction: zote
+alias: <:smugrad:300589495437230080>
+
+#popcorn
+kind: single
+loc: reaction
+img: popcorn.jpg
+category: meme
+reaction: zote
+
+#praise
+kind: single
+loc: reaction
+img: praise_the_light.jpg
+category: meme
+reaction: zote
+alias: 420praiseit
+
+#shaw
+kind: single
+loc: reaction
+img: shaw.jpg
+category: meme
+reaction: zote
+
+#squadgoals
+kind: single
+loc: reaction
+img: squad_goals.png
+category: meme
+reaction: zote
+alias: squad
+alias: tearsquad
+
+#stealyogirl
+kind: single
+loc: reaction
+img: stealyogirl.jpg
+category: meme
+reaction: zote
+
+#steelsoul
+kind: single
+loc: reaction
+img: defeated.jpg
+category: discussion
+reaction: zote
+alias: darksouls
+alias: danksouls
+alias: defeated
+alias: trialoffools
+
+#youfool
+kind: single
+loc: reaction
+img: you_fool.png
+category: meme
+reaction: zote
+alias: xero
+alias: fool
+
+#smugrad
+kind: single
+loc: reaction
+img: smugrad
+category: meme
+reaction: zote
+alias: justice4smugrad
+alias: radiance
+
+#modonly
+kind: text
+loc: mod_help
+category: modonly
+reaction: happygrub
+alias: modhelp
+alias: modcommands
+
+#guides
+kind: text
+loc: sr_guides
+category: speedrunning
+reaction: zote
+alias: guide
+alias: speedrunguide
+
+#completion
+kind: text
+loc: 107
+category: ref
+reaction: happygrub
+alias: 107
+alias: hundred
+alias: 100
+
+#resources
+kind: text
+loc: sr_resources
+category: speedrunning
+reaction: zote
+
+#spoilers
+kind: text
+loc: long_psa
+category: psa
+reaction: happygrub
+alias: nospoilers
+alias: spoiler
+alias: spoileralert
+
+#splrs
+kind: text
+loc: short_psa
+category: psa
+reaction: happygrub
+alias: psa
+
+#zdn
+kind: text
+loc: where_memes
+category: meme
+reaction: zote
+alias: wherememes
+
+#jonnypls
+kind: text
+loc: gng_not_announced
+category: meme
+reaction: teamcherry
+alias: gng
+
+#billybong
+log: awyeah
+kind: multi
+loc: meme
+reaction: dunq
+reaction: yes
+alias: testcommand
+category: meme
+
+#invite
+kind: text
+loc: invite_link
+reaction: zote
+category: meme

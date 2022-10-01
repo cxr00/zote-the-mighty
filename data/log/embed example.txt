@@ -1,0 +1,28 @@
+{
+  "embed": {
+    "color": 16711680,
+    "thumbnail": {
+      "url": "default_avatar_url"
+    },
+    "author": {
+      "name": "u_name#discrim",
+      "icon_url": "default_avatar_url"
+    },
+    "fields": [
+      {
+        "name": "Created:",
+        "value": "created_at",
+        "inline": true
+      },
+      {
+        "name": "Joined",
+        "value": "now()",
+        "inline": true
+      },
+      {
+        "name": "id",
+        "value": "u_id"
+      }
+    ]
+  }
+}
